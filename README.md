@@ -267,29 +267,7 @@ Société      : 10% ████
 - 🔒 **Comptes privés** - Non accessibles
 - 💾 **Volume** - Données volumineuses non versionnées
 
----
 
-## 🔮 Développements Futurs
-
-### Court Terme
-- [ ] Dashboard interactif (Streamlit)
-- [ ] Analyse automatisée quotidienne
-- [ ] Export automatique vers Excel/PDF
-- [ ] Détection de tendances en temps réel
-
-### Moyen Terme
-- [ ] Support multi-plateformes (YouTube, Facebook)
-- [ ] Prédiction de viralité (ML)
-- [ ] Détection de fake news
-- [ ] API REST pour accès externe
-
-### Long Terme
-- [ ] Analyse vidéo (Computer Vision)
-- [ ] Système de recommandation
-- [ ] Chatbot pour requêtes NL
-- [ ] Mobile app
-
----
 
 ## 🤝 Contribution
 
