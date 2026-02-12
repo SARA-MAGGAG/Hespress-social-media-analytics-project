@@ -320,8 +320,8 @@ Les contributions sont bienvenues ! Pour contribuer :
 
 **SARA MAGGAG**  
 🎓 Étudiante en Data Science  
-📧 Email: [votre.email@example.com]  
-🔗 LinkedIn: [Votre Profil]  
+📧 Email: [saramaggag@gmail.com]  
+🔗 LinkedIn: [https://www.linkedin.com/in/sara-maggag-a376661b7/]  
 🐙 GitHub: [@SARA-MAGGAG](https://github.com/SARA-MAGGAG)
 
 ---
