@@ -1,0 +1,21 @@
+# Données sensibles
+data/raw/*.csv
+data/raw/*.json
+*.env
+config/credentials.env
+
+# Backups
+_backup_*/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Logs
+*.log
+temp/
+
+# OS
+.DS_Store
+Thumbs.db
